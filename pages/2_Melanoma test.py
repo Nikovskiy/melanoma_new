@@ -131,9 +131,9 @@ st.write("**Распределение по классам:**")
 st.bar_chart(dataset_stats)
 
 st.header("🔍 Метрики качества")
-st.write("**ROC-AUC:** 0.92")
-st.write("**Precision:** 0.71")
-st.write("**Recall:** 0.97")
+st.write("**ROC-AUC:** 0.97")
+st.write("**Precision:** 0.77")
+st.write("**Recall:** 0.98")
 
 
 # ----------------------------
